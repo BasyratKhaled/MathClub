@@ -1,5 +1,7 @@
 
 # 🚀 Math Club: Cosmic Math Adventure
+(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64593807-8425-4e19-ac88-c6023b9fd97c" />
+)
 
 Math Club is an interactive, space-themed educational platform designed to make arithmetic fun and intuitive for young students. By combining gamified logic puzzles with a responsive, AI-powered assistant, the project transforms traditional problem-solving into an exciting cosmic journey.
 
